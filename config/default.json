@@ -1,0 +1,7 @@
+{
+    "mongoURI": "mongodb+srv://namratha_kaipa:namratha123@devconnector.lk06n.mongodb.net/project_db?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "537d4bdc54fc618144e9",
+    "githubSecret": "96da0435ad8556a7866ea04961a60fca861bdab2",
+    "githubToken":"b5c97318b12b2bed26d96d70ce959cba486a1c27"
+}
